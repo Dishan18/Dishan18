@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dishan18
 - 👀 I’m interested in anime, thrillers, music
 - 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on you
+- 💞️ I’m looking to collaborate with you
 - 📫 How to reach me @thesunsarkar911@gmail.com
 - 😄 Pronouns: Helicopter/whrrrrr
 - ⚡ Fun fact: my life
