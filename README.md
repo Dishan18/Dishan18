@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dishan18
+- 👋 Hi, I’m Dishan
 - 👀 I’m interested in anime, thrillers, music
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate with you
